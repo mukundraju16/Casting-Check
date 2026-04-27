@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+pdfplumber
+camelot-py
+pytesseract
+pdf2image
+streamlit
+xlrd
